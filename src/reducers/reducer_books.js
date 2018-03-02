@@ -4,7 +4,7 @@ export default function() {
             { title: 'Javascript: The good parts' },
             { title:  'Harry Potter'},
             { title:  'The Dark Tower'},
-            { title:  'Eloquent Ruby'}
+            { title:  'Eloquent Javascript'}
         ]
     )
 }
